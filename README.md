@@ -1,8 +1,8 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fTvBqEpyLmHNzZVx0YlKR5wOxFoLRAtZxA&s)
+![logo](https://external-preview.redd.it/duplicati-gets-first-stable-release-of-2-x-branch-v0-QBPpeQlMNZXiQC5w202dv5JwlxYUyxuKM_ktTAGYcPg.jpg?auto=webp&s=943eb2cc6d846ee411f2d29205fdc19e20c43938)
 <h1 align="center">Hi 👋, I'm Samiksha Mangle</h1>
 <h3 align="center">Full Stack Developer from India.</h3>
 <p class="text-base text-gray-700 leading-relaxed tracking-normal mb-4 max-w-3xl"> I specialize in building end-to-end web applications with a focus on scalable intuitive user interfaces and efficient backend systems. I work across the full development lifecycle, from planning and designing front-end components using HTML, CSS, Bootstrap and React JS, to implementing robust APIs and server logic with Node.js, Express, or MongoDB. I’m passionate about writing clean, maintainable code, prioritizing performance, and delivering seamless user experiences that bridge the gap between design and functionality.</p>
-<img align="right"alt="coding"width="400"src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif"
+<img align="right"alt="coding"width="400"src="https://cdn-learn.adafruit.com/guides/images/000/003/613/medium800/Fancy_Octocat_guide_image.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samikshamangle&label=Profile%20views&color=0e75b6&style=flat" alt="samikshamangle" /> </p>
 
