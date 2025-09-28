@@ -1,4 +1,4 @@
-![logo](https://external-preview.redd.it/duplicati-gets-first-stable-release-of-2-x-branch-v0-QBPpeQlMNZXiQC5w202dv5JwlxYUyxuKM_ktTAGYcPg.jpg?auto=webp&s=943eb2cc6d846ee411f2d29205fdc19e20c43938)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fTvBqEpyLmHNzZVx0YlKR5wOxFoLRAtZxA&s)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Samiksha Mangle</h1>
 <h3 align="center">
 <h3 align="center">Full Stack Developer from India.</h3>
