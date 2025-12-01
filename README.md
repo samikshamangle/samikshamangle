@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samiksha-mangle-330a4327b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiksha-mangle-330a4327b" height="30" width="40" /></a>
-<a href="https://instagram.com/samiksha_mangle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiksha_mangle" height="30" width="40" /></a>
+<a href="https://instagram.com/_samikshamangle15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiksha_mangle" height="30" width="40" /></a>
 <img align="right"alt="coding"width="300"src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966"/>
 
   
